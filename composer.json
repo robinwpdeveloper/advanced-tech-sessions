@@ -1,0 +1,13 @@
+{
+    "name": "wpdeveloper/advanced-tech-sessions",
+    "description": "Assignments of advanced tech sessions",
+    "type": "project",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "ATSessionDay1\\": "day-1/assignment",
+            "ATSessionDay2\\": "day-2/assignment"
+        }
+    },
+    "require": {}
+}
