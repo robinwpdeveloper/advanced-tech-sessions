@@ -6,7 +6,7 @@
     "autoload": {
         "psr-4": {
             "ATSessionDay1\\": "day-1/assignment",
-            "ATSessionDay2\\": "day-2/assignment"
+            "ATSessionDay2\\": "day-2/assignment/creational-design-patterns"
         }
     },
     "require": {}
